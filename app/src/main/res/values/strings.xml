@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestAndroidProject</string>
+    <string name="upload_users_and_their_posts">Upload users and their posts :)</string>
+    <string name="start">Start</string>
+    <string name="refresh">Refresh</string>
+    <string name="ooops">Ooops! Error. \nSomething went wrong.</string>
+    <string name="e_mail">E-mail:</string>
+    <string name="phone">Phone:</string>
+    <string name="web_site">web-site</string>
+</resources>
